@@ -1,0 +1,8 @@
+.buildozer/
+.hypothesis/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+models/yolov8n.pt
